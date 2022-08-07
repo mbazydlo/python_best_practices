@@ -42,11 +42,3 @@ __str__ implemented. If you want string representation use as_posix() method or 
 
 Both libraries are built in.
 """
-
-
-"""
-2. Use decouple instead of os.environ
-
-Decouple lib is 3th party, so we have in
-
-"""
